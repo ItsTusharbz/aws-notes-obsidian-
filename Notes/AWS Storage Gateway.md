@@ -1,0 +1,8 @@
+- Bridge between on-premise data and cloud data (S3, EBS,EPS etc)
+- Hybrid storage service to allow on-premises to seamlessly use the AWS cloud
+- Use Case : Disaster recovery, backup and restore, Tiered storage.
+- Types of storage gateway : 
+  - File Gateway
+  - Volume Gateway
+  - Tape gateway
+- 
