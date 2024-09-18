@@ -1,0 +1,6 @@
+- EMR stands for Elastic MapReduce
+- It helps create Hadoop clusters (big data) to analyse and process data.
+- Clusters can be made of hundreds of EC2 instances
+- Also Support Apache Spark, Hbase, Preesto, Flink.
+- Auto-scaling and Integrated with spot instances.
+- use case: Data processing, machine learning, web indexing 

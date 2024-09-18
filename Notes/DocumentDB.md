@@ -1,0 +1,4 @@
+- Its is no-sql db based on Mongodb tech
+- Fully Managed, Highly available with replication across 3AZ.
+- Storage automatically grows 10GB
+- Automatically scale upto millions request per second depend on work load.

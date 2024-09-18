@@ -1,0 +1,7 @@
+- Quantum ledger database.
+- Fully managed, serverless.
+- Immutable system: once change is noted can not be changed.
+- Use case : Credit/debit transaction, insurance claim history, supplu chain asset tracking, vehicle records etc.
+- 2-3x better performance than common ledger blockchain frameworks
+- can use SQL query.
+- Its centralised controlled by AWS unlink block chain ledgers.

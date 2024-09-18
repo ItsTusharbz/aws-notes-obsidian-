@@ -5,4 +5,3 @@
   - File Gateway
   - Volume Gateway
   - Tape gateway
-- 

@@ -1,0 +1,3 @@
+- Fully managed graph database.
+- Highly available across 3 AZ with 15 replicas
+- Can store up to billions of relations and query the graph with millisecond latency.
