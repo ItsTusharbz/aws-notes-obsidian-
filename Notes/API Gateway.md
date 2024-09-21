@@ -1,0 +1,4 @@
+- Support Restfull and Websocket API
+- Serverless, scalable and fully managed
+- Support for security, user authentication, API throttling, API keys, monitoring...
+- Used to build api for severless applications (eg lambda functions)

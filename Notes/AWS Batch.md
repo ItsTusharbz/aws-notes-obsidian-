@@ -1,0 +1,6 @@
+- Fully managed batch processing at ==any scale
+- a batch job is a job with a start and the end 
+- you can schedule a job, aws does the rest
+- batch jobs defines a docker image which runs on ECS
+- Its launches EC2 instance or spot instance depend on the load.
+- can run 10000s of batch job on AWS

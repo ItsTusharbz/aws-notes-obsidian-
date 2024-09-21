@@ -1,0 +1,9 @@
+- Virtual server, storage ,db and networking
+- Low and predictable pricing
+- Simpler alternative to using EC2,RDS,ELB,EBS,Route 53
+- Great for people with little cloud experience.
+- Use case:
+  - Simple web applications
+  - Websites
+  - Dev/Test environment
+- Has high availability but no auto-scaling, limited AWS integrations.
