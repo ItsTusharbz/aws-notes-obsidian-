@@ -8,7 +8,7 @@
 
 #### Process
 
-1. Start an EC2 instance and customize it.
+1. Start an EC2 instance and customise it.
 2. Stop the instance
 3. Build an AMI - this will create EBS snapshot
 4. You can copy AMI from one region to another

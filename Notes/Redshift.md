@@ -9,6 +9,6 @@
 - You can run sql query 
 
 ### Serverless
-- In this you don't have to initial instance, It is handled by AWS
+- In this you don't have to initialise instance, It is handled by AWS
 - Depending on work load server capacity will be increased automatically
 - Pay for compute and storage during analysis.

@@ -14,6 +14,5 @@ Launch 3rd party high-performance file system on AWS
 #### FSx for Lustre
 
 - Highly scalable and high performance file system for HPC
-- Linxx + cluster = Lustre
+- Linux + cluster = Lustre
 - Scales up to 100s Gb/s, millions of IOPS, sub-ms latencies
-- 

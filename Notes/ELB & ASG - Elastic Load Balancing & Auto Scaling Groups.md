@@ -15,9 +15,7 @@ Horizontal Scaling
 - Goes hand in hand with Horizontal scaling
 - It means your application is running on atleast 2 AZ
 
-Definition
-
-
+Definitions
 ##### Scalability 
 Ability to accommodate a larger load by making the hardware stronger (scale up) or by adding nodes (scale out) 
 
@@ -28,7 +26,17 @@ Agility
 It means how fast the resources can be available to developer to start the development or deployment.
 
 
-#### ASG strategy
+#### Auto Scaling Group 
+
+Goal for ASG
+- Scale out (increase) or scale in (decrease) EC2 instance to match website load.
+- Ensure we have optimal number of server running depend on load.
+- Automatically register new instances to a load balancer.
+- Replace unhealthy instance.
+- Good cost savings
+
+
+##### ASG strategy
 - Manual Scaling - Manually update the size of ASG 
 - Dynamic Scaling
   - Simple/Step Scaling

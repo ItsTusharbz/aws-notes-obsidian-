@@ -21,13 +21,19 @@ Buckets
   - No prefix xn-- and suffix -s3alias
 - Objects (files) have key
 - Keys is composed of prefix (path) + object name (file name)
-- eg path = s3://my-bucket/my_folders/my_files.txt
+- eg 
+   path = s3://my-bucket/my_folders/
+   object = my_files.txt
+   key = s3://my-bucket/my_folders/my_files.txt
 
 #### Security 
 [[S3 security]]
 
 Replication
 [[S3 Replication]]
+
+Storage 
+[[S3 storage Classes]]
 
 
 IAM Access Analyzer for S3

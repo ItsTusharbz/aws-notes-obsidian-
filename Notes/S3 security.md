@@ -1,6 +1,6 @@
 
 User-based
-- IAM policies  - you can define which api can are allowed for specific IAM user
+- IAM policies  - you can define which api are allowed for specific IAM user
 
 Resource-Based
 - Bucket Policies - bucket wide rules from the s3 console. - allows across account

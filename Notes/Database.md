@@ -17,22 +17,22 @@ Note- You can install DB on EC2 instance. but then you have to manage everything
 
 - RDS - Relational Database Service
 - Data is stored in EBS 
- - Below are the available services
-   - Postgres
+ - Below are the supported databases
+   - Postgress
    - MySQL
    - MariaDB
    - Oracle
    - Microsoft SQL Server
    - IBM DB2
-   - Aurora 
-   - 
-
+   - Aurora (Postgress and Mysql compatible)
+   
 #### Amazon Aurora 
-- PostgreSQL and MySQL are both supported by Aurora DB
+- PostgreSQL and MySQL are both supported by Aurora DB.
+- It is a db as well act as service doing auto scaling etc
 - Proprietary tech of AWS no open source
 - 5x performance than MySQL, 3X performance than PostgreSQL
 - Automatically grows 10Gb to 128TB
-- cost 20% more  than RDS
+- cost 20% more than RDS
 - Not in free tier
 
 #### Amazon Aurora Serverless
@@ -43,15 +43,14 @@ Note- You can install DB on EC2 instance. but then you have to manage everything
 [[AWS ElastiCache]]
 
 ### Database Provided by AWS
-DynamoDB - [[Dynamo DB]]
-Neptune - [[Neptune]]
-QLDB - [[QLDB]]
+DynamoDB - [[Dynamo DB]] (no-sql db)
+Neptune - [[Neptune]]. (graph)
+QLDB - [[QLDB]]  (ledger)
 TimeStream - [[TimeStream]]
-Neptune - [[Neptune]]
-
+DocumentDb - [[DocumentDB]]
 #### Database Analysis Services
 [[Redshift]]
-[[EMR]]
+[[EMR (Elastic Map Reduce)]]
 [[Athena]]
 [[QuickSight]]
 [[AWS blockchains]]
@@ -59,3 +58,4 @@ Neptune - [[Neptune]]
 ##### Migration and transform
 [[AWS Glue]]
 [[DMS (data migration service)]]
+[[AWS Snow Family]]

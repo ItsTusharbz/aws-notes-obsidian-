@@ -1,6 +1,6 @@
 
 - S3 Standard - General Purpose
-- S3 S3 Standard - Infrequent Access (IA)
+- S3 Standard - Infrequent Access (IA)
 - S3 One Zone - Infrequent Access
 - S3 glacier Instant Retrieval 
 - Glacier Flexible Retrieval

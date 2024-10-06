@@ -9,4 +9,3 @@
   - Scripts
   - Web and configuration files
 - It can deploy code from S3,Github or bitbucket
-- 

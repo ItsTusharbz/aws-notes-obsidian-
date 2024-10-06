@@ -15,11 +15,3 @@ Type of load balancer provided by AWS
 ![[Pasted image 20240907193749.png]]
 
 
-#### Auto Scaling Group 
-
-goal for ASB
-- Scale out (increase ) or scale in (decrease) EC2 instance to match website load.
-- Ensure we have optimal number of server running depend on load.
-- Automatically register new instances to a load balancer.
-- Replace unhealthy instance.
-- Good cost savings

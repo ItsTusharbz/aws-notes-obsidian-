@@ -34,7 +34,7 @@ those credit can be used while in burst mode.
 burst mode is nothing but sudden rise of work load to the CPU
 T2 instance earn CPU credit by below formula
 
-CPU Credit = % baseline utilization * number of vCPU * 60min;
+CPU Credit = % baseline utilisation * number of vCPU * 60min;
 
 
 
@@ -43,17 +43,17 @@ Note - site to see all available EC2 instance in aws https://instances.vantage.s
 EC2 instance Types
 
 - General purpose
-- Compute Optimized
-- Memory Optimized
+- Compute Optimised
+- Memory Optimised
 - Accelerated Computing
-- Storage Optimized
+- Storage Optimised
 - HPC (high performance computing) 
 
 
 Security Groups
 
-- Fundamental of network security n AWS
-- They control how trafffice s allowed into or out of EC2
+- Fundamental of network security in AWS
+- They control how traffic is allowed into or out of EC2
 - They only contain allow rules
 - They are firewall of EC2
 - Regulate
@@ -90,7 +90,7 @@ Window 10 ssh connect
 - Recommended for short term and un interrupted workloads 
 ##### Reserved instance
 - 72% discount compared to on-demand
--  You reserve specific instance attribute (Type,Region,Tenancy, OS)
+- You reserve specific instance attribute (Type,Region,Tenancy, OS)
 - Reservation Period - 1 year or 3 year
 - payment options - no upfront , partial ,all upfront
 - Scope - Regional or zonal 
@@ -111,7 +111,7 @@ Window 10 ssh connect
 
 ##### Spot instance
 - Highest discount 90%
-- can  you lose the instance if the max price is less than current spot price
+- you can lose the instance if the max price is less than current spot price
 - most cost-effective instance
 - Useful for workload that are resilient to failure
   - Batch jobs
@@ -139,22 +139,22 @@ Window 10 ssh connect
 - You are charged at on demand rate whether you run instance or not
 - Used for short term, uninterrupted workloads in AZ
 
-
-
-Storage 
-
+#### Storage 
 [[EC2 Storage (EBS - Elastic Block  Store)]]
 [[EC2 instance storage]]
 [[EFS - Elastic File System]]
 
 
 EC2 responsibility model
- 
 
 | AWS                                               | USER                                         |
 | ------------------------------------------------- | -------------------------------------------- |
 | Infrastructure                                    | Seeting up backup / snapshot procedures      |
 | Replication for data for EBS volumes & EFS drives | setting up data encryption                   |
-| Replacing faulty hardware                         | responsibility of any data on the dries      |
-| Ensuring their employees cannot access your data  | Understanding the rick of EC2 instance store |
-|                                                   |                                              |
+| Replacing faulty hardware                         | responsibility of any data on the drives     |
+| Ensuring their employees cannot access your data  | Understanding the risk of EC2 instance store |
+
+
+### EC2 images
+
+[[AMI  (Amazon Machine Image)]]

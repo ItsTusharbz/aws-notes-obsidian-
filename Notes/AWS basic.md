@@ -28,16 +28,8 @@ Pricing of the cloud
 
 
 ##### Points of presence (Edge location)
-This means the aws infrastructure location
+This means the AWS infrastructure location
  - AWS has 400+ POP in 90+ cities and 40+ countries 
- - 
-
-
-Services 
-
-[[IAM (Identity and Access  Management)]]
-[[EC2]]
-
 
 
 
