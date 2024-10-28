@@ -1,0 +1,3 @@
+- Portal that provides customers with on-demand access to AWS compliance doc and agreements
+- Artifact Reports - Allows you to download aws security and compliance documents from third-party auditors, like AWS ISO certifications, Payment Card Industry (PCI) and System and organzation control report (SOC)
+- Artifact Agreements - Allows you to review, accept and track the status of AWS agreements such as Business Associate Addendum (BAA) or the Health Insurance Portability and Accountability Act (HIPAA) for individual or your organization.
