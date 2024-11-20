@@ -1,0 +1,4 @@
+- Amazon Macie discovers sensitive data using machine learning and pattern matching, provides visibility into data security risks, and enables automated protection against those risks.
+- It scans S3 bucket for sensitive data and provide insight into it. 
+- Macies can connect to AWS eventBrigde to send alerts or send it to AWS security hub
+- It can work across the account

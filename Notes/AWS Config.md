@@ -1,0 +1,12 @@
+- AWS config check configuration of resources as per rule you define.
+- Its a paid service.
+  - Record the change in configuration of resources over time.
+  - It helps you audit the security of your resources as per your organization compliance rule.
+  - Few use cases - 
+	  - Check the security group and see if no-restricted SSH access is provided. 
+	  - Do my bucket have any public access
+	  - How has my ALB configuration changed over time.
+- You can receive Alert  (using SNS Topic)
+- CloudTrail is available to record who did the changes
+- It is per-region service.
+- Can be aggregated across region and accounts.

@@ -14,6 +14,6 @@ AWS Firewall Manager
   - WAF rules
   - AWS Shield Advance
   - AWS Network Firewall
-- When rules are created in manager they will apply to all present and future instance as well across the organsation account.
+- When rules are created in manager they will apply to all present and future instance as well across the organisation account.
 
 ![[Pasted image 20241026184301.png]]

@@ -1,0 +1,14 @@
+
+- Root user is account owner
+- Has complete access to entire AWS service
+- Don't use root account for everyday tasks.
+- Actions can be performed by root user
+  - Change account settings (root username, password, email, access key)
+  - View certain tax invoice
+  - close your aws account.
+  - Restore IAM user permission
+  - change or cancel AWS support plan
+  - Register as seller in reserver instance marketplace
+  - Configure S3 bucket to enable MFA
+  - Edit or delete amazon S3 bucket policy that includes and Invalid VPC or VPC endpoint ID
+  - Singup for GovCloud.

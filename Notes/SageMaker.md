@@ -1,0 +1,3 @@
+- Fully managed service for developer / data scientist to build ML models
+- Typically difficult to do all the processes in one place + provision servers
+- Sage helps developer to do all the steps  (data collection, labelling, training and tuning the model) require to build a ML model in one place.

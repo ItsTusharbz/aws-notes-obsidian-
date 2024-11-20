@@ -1,0 +1,12 @@
+- Central Security tool to manage multiple security tool from one location.
+- You can manage multiple AWS account and run automate checks
+- Automatically aggregate alerts and finding from many AWS services and third party services.
+  - Config
+  - GuardDuty
+  - Inspector
+  - IAM Access Analyser
+  - System Manager
+  - Firewall manager
+  - Health
+  - Partner network solution
+  - ![[Pasted image 20241030183931.png]]

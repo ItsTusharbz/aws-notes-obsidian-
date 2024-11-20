@@ -1,6 +1,6 @@
 
 - Intelligent Threat discovery to protect your ==AWS account.
-- Uses ML algo, anomaly detection, 3rd party data  to identify the threat.
+- Uses ML Algo, anomaly detection, 3rd party data to identify the threat.
 - Input data include
   - DNS logs.- sending encoded data with DNS queries
   - CloutTrail Event logs - unusual API call, au-auth deployment

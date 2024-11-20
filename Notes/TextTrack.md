@@ -1,0 +1,6 @@
+- Extract text, handwriting and data from any scanned documents using AI and ML returns a json response with key and value.
+- Read and process any type of documents (PDF, image)
+- use case
+  - Financial services
+  - Healthcare
+  - Public Sector 

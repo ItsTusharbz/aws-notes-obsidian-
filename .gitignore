@@ -13,3 +13,9 @@
 .obsidian/plugins/remotely-save/main.js
 .obsidian/plugins/remotely-save/manifest.json
 .obsidian/plugins/remotely-save/styles.css
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

@@ -1,0 +1,13 @@
+
+- [[AWS Network Firewall and Firewall Manager]] - Protect VPC from network attack and manage security rules across account (Shield WAF etc).
+- [[Encryption with KMS and cloudHSM]] -  AWS provided key store. As well private encyption hardware to manage keys on your own (HSM). 
+- [[AWS ACM (certificate manager)]] - Provision, manage and deploy SST/TLS certificates
+- [[AWS Artifact]] - Get access to compliance report like PCI, ISO etc
+- [[Amazon GuardDuty]] -  Analyses logs from CloudTrail, VPC and DNS etc uses ML to detect threats 
+- [[AWS inspector]] - Find malware vulnerability in EC2, ECR and Lambda function. Compares data with CVE db to identify the threat.
+- [[AWS Config]] - Track configuration changes and compliance against rules. 
+- [[AWS Macie]] - detect sensitive data (ex IIP data) in S3 bucket.
+- [[AWS Security Hub]] - a centralised portal to manage many security services and get consolidated view of the security in AWS account
+- [[Amazon Detective]] -  incase if any security finding reach the root cause of it using detective.
+- [[Root user]] - An ultimate owner of aws account.
+- [[IAM Access Analyzer]] - Identify which resources shared externally.

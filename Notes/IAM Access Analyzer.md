@@ -1,0 +1,11 @@
+- Find out which resource are shared externally
+  - S3 bucket 
+  - IAM Roles
+  - KMS keys
+  - Lambda Functions and Layers
+  - SQS 
+  - Secret Manger Secret 
+- Define zone of trust  = AWS Account or AWS organization.
+- Access outside of trust is consider as finding.
+- Using these finding user can restrict the use and change the security policies
+![[Pasted image 20241031161108.png]]

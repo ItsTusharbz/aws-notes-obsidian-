@@ -1,7 +1,7 @@
 - Automated Security Assessments
 - For EC2
   - Leverage System Manager agent (SSM)
-  - Network reachabiliy.
+  - Network reachability.
   - unintended network access
   - Running Os and known vulnerabilities
 -  Lambda
