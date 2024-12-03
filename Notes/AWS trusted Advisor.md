@@ -1,0 +1,9 @@
+- No need to install - high level aws account assessment.
+- Provide recommendation on 6 category
+  - Cost optimasation
+  - Security
+  - Service limit
+  - Operational Excellence
+  - Performance
+  - Fault Tolerance.
+- Only security and Service limit is free (limited) all other category requires paid support plan.

@@ -1,0 +1,10 @@
+- This service provide recommendation based on workload need on which resources will be best for the job.
+- Also helps reduce cost by providing optimal configuration to reduce cost.
+- Uses Machine Learning to analyse your resources configuration and their utilisation cloudWatch metrics.
+- Supported resources
+   - Ec2 instances
+   - EC2 Auto Scaling Groups
+   - EBS volumes
+   - Lambda functions
+- Lower cost by 25%
+- Recommendations can be exported to S3

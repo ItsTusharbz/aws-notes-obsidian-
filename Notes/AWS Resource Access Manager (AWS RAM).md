@@ -1,0 +1,4 @@
+- share AWS resources that you own with other AWS accounts.
+- Share with any account or within your Organization
+- Avoid resource duplications
+- Supported resources include Aurora db, VPC subnet, Transit Gateway, Route 53, EC2 Dedicated Hosts, License Manager Configuration etc.

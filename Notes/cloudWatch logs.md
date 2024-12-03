@@ -1,0 +1,10 @@
+- Used to collect application Logs 
+- IT collects logs from 
+  - Beanstalk
+  - ECS
+  - AWS lambda
+  - CloudTrail
+  - CloudWatch log agents: on EC2 Machine or op-premises servers
+  - Route53 : Log DNS queries
+- Enables real-time monitoring of logs
+- Adjustable CloudWatch Logs retention. (eg day, month, forever)
