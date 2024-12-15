@@ -1,0 +1,9 @@
+- Compute Optimiser : recommends resources config to reduce cost.
+- Pricing calculator : cost of services on AWS
+- Billing Dashboard : high level overview + free tier dashboard.
+- Cost allocation Tags: tag resources to create a detailed reports
+- Cost and usage Reports :  most comprehensive billing dataset.
+- Cost Explorer :  View current usage (detailed) and forecast usage
+- Billing Alarms : in us-east-1 track overall and pre-service biliing
+- Budgets : more advanced - track usage, cost , RI and get alerts
+- Saving Plans: easy way to save based on long-term usage of aws

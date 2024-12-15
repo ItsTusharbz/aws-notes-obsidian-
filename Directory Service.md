@@ -1,0 +1,11 @@
+- It is a service to manage active directory from cloud.
+- 3 types of AD (Active Directory) services
+  - AWS managed Microsoft AD
+    - Create your own AD in AWS, manage users locally , supports MFA
+    - Establish `trust` connection with your on-premise AD
+- AD connector
+  - Directory Gateway (proxy) to redirect to on-premise AD, supports MFA
+  - Users are managed on the op-premise AD
+- Simple AD
+  - AD-compatible managed directory on AWS
+  - Cannot be joined with on-premise AD
