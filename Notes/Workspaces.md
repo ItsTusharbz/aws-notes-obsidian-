@@ -1,0 +1,5 @@
+- Service provide virtual desktop on a click of button (Windows or Linux)
+- Manages desktop as a service (DaaS)
+- Can scale to thounsands of users
+- Secured data with KMS integration.
+- pay as you go service monthly or hourly charge.

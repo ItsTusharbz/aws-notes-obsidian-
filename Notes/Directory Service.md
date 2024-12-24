@@ -9,3 +9,4 @@
 - Simple AD
   - AD-compatible managed directory on AWS
   - Cannot be joined with on-premise AD
+
