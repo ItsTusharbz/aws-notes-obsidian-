@@ -1,0 +1,6 @@
+- the network of internet connected devices that are able to collect and transfer data.
+- AWS IOT core allows you to easily connect IOT devices to the AWS cloud 
+- Serverless, secure  & scalable to billions of devices and trillions of messages
+- Your app can communicate with your device  even when they aren't connected.
+- Integrate with a lot of AWS services (Lambda, S3, SageMaker etc)
+- Build IoT applications that gather, process, and analyze data.

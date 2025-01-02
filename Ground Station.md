@@ -1,0 +1,3 @@
+- fully managed service to commuincate with satellite new AWS region.
+- You can download data from satellite within seconds to Ec2 or S3 buckets.
+- use case - weather forecasting, surface imaginig, communications, video broadcasts.

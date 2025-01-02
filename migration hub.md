@@ -1,0 +1,4 @@
+- A central location to collect server and applications inventory data fro the assessment,planning and tracking of migrations to AWS
+- Help accelerate migration
+- ==AWS migration Hub Orchestrator== - pre-built template to speed up migration for enteprice app (SAP, MS SQL server etc) 
+- integrated with [[App Discovery & Migration Service]] and [[DMS (data migration service)]] 

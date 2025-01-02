@@ -1,0 +1,4 @@
+- Visually design and build serverless app quickly on AWS.
+- Deploy AWS infra code without needing to be an expert in [[AWS S3]] Configure how you resources interact with each other 
+- Generated infrastructure as Code (IaC) using [[CloudFormation]]
+- Ability to import existing [[CloudFormation]]/ SAM templates to visualise them.
