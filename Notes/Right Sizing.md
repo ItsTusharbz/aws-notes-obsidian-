@@ -1,0 +1,3 @@
+- EC2 has many instance but choose which is right for you because cloud is ==elastic==
+- ==Scaling up is easy so always start small
+- Its a process of looking at deployed instances and identifying opportunity to eliminate or downsize without compromising capacity
