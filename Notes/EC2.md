@@ -45,7 +45,7 @@ EC2 instance Types
 - General purpose
 - Compute Optimised
 - Memory Optimised
-- Accelerated Computing
+- Accelerated Computing (uses hardware accelerator)
 - Storage Optimised
 - HPC (high performance computing) 
 
@@ -85,9 +85,9 @@ Window 10 ssh connect
 
 ##### On-demand - Pay as you use
   - Linux or widows - billing per second
-  - other operating system - blling per hr
+  - other operating system - billing per hr
 - highest cost no upfront payment
-- Recommended for short term and un interrupted workloads 
+- Recommended for short term and uninterrupted workloads.
 ##### Reserved instance
 - 72% discount compared to on-demand
 - You reserve specific instance attribute (Type,Region,Tenancy, OS)
@@ -121,7 +121,7 @@ Window 10 ssh connect
   - Workloads with flexible start and end time
 
 ##### Dedicated host
-- Physical server with EC2 instance capacity fully 
+- Physical server with EC2 instance with full capacity
 - Allows you to address compliance requirements and use your existing server bound software licenses (per socket, per core , per - VM software licenses)
 - Purchasing options
   - on-demand 

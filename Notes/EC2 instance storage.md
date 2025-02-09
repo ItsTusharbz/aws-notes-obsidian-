@@ -4,8 +4,8 @@
 - Better IO performance
 - EC2 instance store lose their storage if EC2 instance is stopped
 - Good for buffer / Chache / scratch data / temporary content 
-- Risk of data lose if hardware fails
-- Backups and Replication are you responsibility
+- Risk of data loss if hardware fails
+- Backups and Replication are your responsibility
 
 
 

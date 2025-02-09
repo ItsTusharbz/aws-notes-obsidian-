@@ -17,7 +17,7 @@ Note- You can install DB on EC2 instance. but then you have to manage everything
 
 - RDS - Relational Database Service
 - Data is stored in EBS 
- - Below are the supported databases
+ - I
    - Postgress
    - MySQL
    - MariaDB

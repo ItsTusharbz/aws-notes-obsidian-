@@ -17,7 +17,7 @@
 
 EC2 image builder overview
 - Automate the creation, maintain, validate and test EC2 AMIs.
-- It cam be run on schedule
+- It can be run on schedule
 - Free service.
 - Flow is automated flow
   1. Build will create EC2 instance

@@ -35,6 +35,9 @@ Replication
 Storage 
 [[S3 storage Classes]]
 
+Data Migration
+[[AWS Storage Gateway]]
+
 
 IAM Access Analyzer for S3
 - Its an S3 monitoring feature provided by aws

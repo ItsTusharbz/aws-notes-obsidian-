@@ -20,7 +20,7 @@ Access keys are generated through console
 - policies has an action which defines whether the user  is allowed to have an access or restricted from that action.
 
 ##### Roles for services
-- Some AWS service an act on behalf of user. Those services can be granted a role which will define it access and action that can be performed in the account
+- Some AWS service can act on behalf of user. Those services can be granted a role which will define it access and action that can be performed in the account
 - common roles - 
    1. EC2 instance role
    2. Lambda Function roles
@@ -28,7 +28,7 @@ Access keys are generated through console
 eg EC2 service can have IAMReadOnly role attached to it. This way EC2 service can read list of users, credentialReport etc.
 
 ##### Security Tools
-1. IAM Credentials Rport (Account-level)
+1. IAM Credentials Report (Account-level)
    - Report list of all user account and credentials
 2. IAM Access Advisor (user-level)
    - List of permission granted to user and services they accessed
@@ -36,12 +36,13 @@ eg EC2 service can have IAMReadOnly role attached to it. This way EC2 service ca
 ##### AWS Shared responsibility Model for IAM
 
 
-| AWS                                      | User                                          |
-| ---------------------------------------- | --------------------------------------------- |
-| Infrastructure                           | Users, Groups, Role and policies              |
-| Configuration and vulnerability analysis | Enable MFA to all users                       |
-| Complaince Validation                    | Rotate keys often                             |
-|                                          | user IAM tool to apply appropriate permission |
+| AWS                                      | User                                         |
+| ---------------------------------------- | -------------------------------------------- |
+| Infrastructure                           | Users, Groups, Role and policies             |
+| Configuration and vulnerability analysis | Enable MFA to all users                      |
+| Compliance Validation                    | Rotate keys often                            |
+|                                          | use IAM tool to apply appropriate permission |
+|                                          | Analyze access pattern and review permission |
 
 
 
