@@ -1,0 +1,9 @@
+- Mostly used to analyze distributed system and identify any issue or exception.
+- Troubleshooting performance (bottlenecks)
+- Understand dependancies in a microservice architecture.
+- Pinpoint service issues
+- Review request behaviour
+- Find error and exceptions
+- Are we meeting time SLA?
+- Where I am throttled?
+- Identify users that are impacted.

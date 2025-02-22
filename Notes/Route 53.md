@@ -1,10 +1,10 @@
 
-- It is a DSN (domain name service) service to manage the mapping of ip address to hostname.
+- It is a DNS (domain name service)  to manage the mapping of ip address to hostname.
 - In AWS most common records are
   - domain name => IPv4 == A record
-  - domain name => IPv6 === AAAA Ipv6
+  - domain name => IPv6 === AAAA IPV6
   - domain name => domain name  == CNAM: hostname to hostname
-  - domain name => AWS resource == Alias (eg ELB, CloudFront, s3, RDS etc)
+  - domain name => AWS resource == Alias (eg ELB, CloudFront, S3, RDS etc)
 ![[Pasted image 20240928154410.png]]
 
 

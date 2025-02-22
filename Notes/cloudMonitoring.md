@@ -1,6 +1,6 @@
-
+ 
 [[Notes/cloudWatch Event Brigde|cloudWatch Event Brigde]]
 [[cloudTrail]]
-[[x-ray]]
+[[X-Ray]]
 [[codeguru]]
-[[healthDashboard]]
+[[Health Dashboard]]

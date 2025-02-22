@@ -29,7 +29,7 @@ Pricing
   - First 1M call are free
   - $.02 per 1 M  request afterward
 - Pay per duration: (in increment of 1 ms)
-  - 400K GB-servond of compute time per month free
+  - 400K GB-second of compute time per month free
   - means if function uses 1GB ram then 400k seconds
-  - if 2GM RAm then 200k seconds
-  - AFter than $1 for 600k GB-second
+  - if 2GM Ram then 200k seconds.
+  - After that $1 for 600k GB-second.

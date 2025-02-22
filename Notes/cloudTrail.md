@@ -1,0 +1,12 @@
+- Provide governance, compliance and audit for your aws account.
+- CloudTrail is enabled by default.
+- Get an history of event/api calls made within your aws account by:
+	- Console
+	- DSK
+	- CLI
+	- AWS Service
+	- IAM user or root user
+- Can transfer logs to cloudWatch logs or S3
+- A trail can be applied to All Regions (default) or single Region.
+- if resource is deleted then investigate in cloudTrail first!
+- 

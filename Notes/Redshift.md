@@ -1,7 +1,7 @@
 - It is used to do analytics and data warehousing
 - It used PostgreSQL as dB
-- IT is OLAP online analytical processing
-- Data stored in column format (columnar) that row format
+- IT is OLAP (online analytical processing)
+- Data stored in column format (columnar).
 - 10x performance than other data warehouses.
 - Load data once every hour, not every second.
 - Highly available, Massively Parallel Query Execution (MPP)

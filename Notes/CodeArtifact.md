@@ -1,0 +1,3 @@
+- Software packages depend on each other to be built (code dependancies)
+- CodeArtifact stores dependancies and while building the app using codeBuild can fetch those dependancies during build.
+- It works with common dependacy management tools such as Maven, Gradle, npm, yarn etc

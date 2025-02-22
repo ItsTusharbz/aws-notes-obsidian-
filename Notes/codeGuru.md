@@ -1,0 +1,4 @@
+- ML powered service for automated code review and app performance recommendations.
+- Provides 2 functionalities
+	- CodeGuru Reviewer - Reviews the code and provide advice on the improvement (development)
+	- CodeGuru Profiler - Analyze the performance of application during runtime(production) and provide advice and recommendations.

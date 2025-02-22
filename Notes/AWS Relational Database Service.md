@@ -15,7 +15,7 @@
   - Data is only written to the main DB.
 
 - Multi-AZ:
-- It is a replication of db into 1 other zone. incase of main db is not available. (high availability)
+- It is a replication of db into 1 other zone. Incase of main db is not available. (high availability)
  - Failover in case of AZ outage 
  - Data is only read/written to main db
  - can have only 1 other AZ as failover.

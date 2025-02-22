@@ -12,4 +12,4 @@
 [[AWS Wavelegnth]]
 - Deploy infra at telecom provider datacenter 5g
 [[Local Zone]]
-- Good for latency-sensitive applications
+- Setup infra near user, good for latency-sensitive applications

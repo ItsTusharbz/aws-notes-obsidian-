@@ -4,14 +4,14 @@
 - Prevent DDos attach by having global distribution network.
 
 
-Origin
+CloudFront can have different origin below are 2 example
 
-S3 bucket
+##### S3 bucket
 - To distribute file and object
 - It enhances the security by providing access origin control
-- can at as ingress (mean able to upload file to s3)
+- can act as ingress (mean able to upload file to s3)
 
-HTTP 
+###### HTTP/S 
 - Application load balance
 - Ec2 instance
 - S3 website (must be static website)

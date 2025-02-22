@@ -1,4 +1,4 @@
-- Every service in AWS triggers an event which gets send to cloud watch event. Using those events we can schedule or trigger a target, or set an action (eg trigger SNS topic to send email).
+  - Every service in AWS triggers an event which gets send to cloud watch event. Using those events we can schedule or trigger a target, or set an action (eg trigger SNS topic to send email).
 - There are 2 types of rules
   1. Pattern based
   2. cron job (time based)
